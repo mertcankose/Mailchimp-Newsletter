@@ -37,4 +37,4 @@ node app.js
 [product-screenshot2]: screenshots/newsletter2.png
 [product-screenshot3]: screenshots/newsletter3.png
 [product-screenshot4]: screenshots/newsletter4.png
-[product-screenshot4]: screenshots/newsletter5.png
+[product-screenshot5]: screenshots/newsletter5.png
