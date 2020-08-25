@@ -1,6 +1,6 @@
-# Weather-App
+# Newsletter
 
-WeatherApp-NODE.JS
+Newsletter-NODE.JS
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -9,7 +9,7 @@ WeatherApp-NODE.JS
 ![Product Name Screen Shot][product-screenshot2]
 ![Product Name Screen Shot][product-screenshot3]
 ![Product Name Screen Shot][product-screenshot4]
-
+![Product Name Screen Shot][product-screenshot5]
 
 ### Built With
 * [NodeJS](https://nodejs.org/en/)
@@ -37,3 +37,4 @@ node app.js
 [product-screenshot2]: screenshots/newsletter2.png
 [product-screenshot3]: screenshots/newsletter3.png
 [product-screenshot4]: screenshots/newsletter4.png
+[product-screenshot4]: screenshots/newsletter5.png
